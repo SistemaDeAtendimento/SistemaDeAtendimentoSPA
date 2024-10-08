@@ -1,10 +1,8 @@
-<script lang="js">
-
-
+<script setup>
 </script>
 
 <template>
     <main>
-        <h1>Home page</h1>
+        <h1>Hello World!</h1>
     </main>
 </template>
